@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "biblias_animacion", from = "src"}]
+packages = [{include = "app.py", from = "src"}]
 
 
 [build-system]
